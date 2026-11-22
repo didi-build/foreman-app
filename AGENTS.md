@@ -1,6 +1,6 @@
 # Agent instructions
 
-**Project:** {{PROJECT_NAME}} — {{PROJECT_PURPOSE}}
+**Project:** Foreman App — Foreman's own app: the planning chat, the plans and items views, and the system topology, in one installable phone-first app.
 
 This file is the single source of truth for how agents work in this repository. Other agent entry points only link here.
 

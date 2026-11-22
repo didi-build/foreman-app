@@ -1,10 +1,10 @@
-# Architecture overview — {{PROJECT_NAME}}
+# Architecture overview — Foreman App
 
 Replace this file with your system’s architecture. Keep it short; link to deeper docs as the project grows.
 
 ## Purpose
 
-{{PROJECT_PURPOSE}}
+Foreman's own app: the planning chat, the plans and items views, and the system topology, in one installable phone-first app.
 
 ## Boundaries
 
